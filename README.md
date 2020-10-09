@@ -37,7 +37,7 @@ Also what went well, is the amazing group of people that I can turn to for some 
 TRYING TO MAKE THE CALCULATOR PRETTY! + the stretch goals. 
 
 (All I can say, the intensity of the training, where we began with the theory of Agile in which we were taught about breaking a project into small parts until its understood, seems to have become lost in translation in the coming weeks.
-I translated the idea of Agile as the classic 'how do you eat an elephant?... well of course, one bite at a time', what seems to have happened instead is 'said' Elephant was thrown at us, along with its herd...)
+I translated the idea of Agile as the classic 'how do you eat an elephant🐘?... well of course, one bite at a time', what seems to have happened instead is 'said' Elephant was thrown at us, along with its herd 🐘🐘🐘🐘🐘...)
 
 Honestly speaking, to have a functioning calculator after just five days of HTML and Javascript, never mind the fact that the calculator has no decimal button either, is the stretch itself. 
 
