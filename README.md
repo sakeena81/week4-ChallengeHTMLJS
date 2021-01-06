@@ -10,6 +10,8 @@ Build a HTML calculator from scratch using JavaScript,
 ## What was the Challenge?
 Luckily we were not expected to build a scientific calculator, but a basic calculator, that functions as a calculator...there is an image of the type of the calculator expected in my repository titled as CALC EXPECTATIONS... 
 
+*QUIZ TIME! How many times does the word CALCULATOR appear in this README?(answer is at the bottom)*
+
 
 ## How I expected the challenge to go.
 Lets just say, I now see the calculator in a whole new way, like many things, its a tool I have taken for granted. I take my hat off to the person who decided to jump from the abacus to a digital calculator. 
@@ -48,3 +50,5 @@ Honestly speaking, to have a functioning calculator after just five days of HTML
 
 Copyright (c) 2020 **_Sakeena Ali_**
 
+
+(quiz time answer...calculator word appears the number of times this project stressed me out..😭)
